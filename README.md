@@ -46,3 +46,7 @@ This lab showed that detection is not just about alerts, it's about validating t
 - Improve rule tuning and reduce false positives
 - Build alert dashboards and correlations
 - Integrate with MITRE ATT&CK visualisation
+
+## Use Cases
+- [PowerShell Attack Simulation](./use-cases/powershell-attack.md)
+- [Application Shimming Detection](./use-cases/application-shimming.md)
