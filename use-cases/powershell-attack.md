@@ -95,17 +95,3 @@ I successfully simulated and detected:
 - **Hidden execution from TEMP**
 
 Wazuh produced alerts that matched real-world attacker patterns, and I validated them by checking the exact command line/script block content and decoding encoded payloads where needed.
-
-
-
-![[Screenshot 2026-02-24 213102.png]]
-
-![[Screenshot 2026-02-24 144035.png]]
-
-![[Screenshot 2026-02-24 144011.png]]
-
-![[Screenshot 2026-02-24 142516.png]]
-
-![[Screenshot 2026-02-24 142422.png]]
-
-![[Screenshot 2026-02-24 142344.png]]
